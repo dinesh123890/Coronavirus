@@ -42,4 +42,4 @@ At present we are facing a new challenge which is new variant of corona omicron.
 This project also include all the information about the new variant which help people to be aware.
 Yes, the project’s purpose and basic functionality mapped to the problem statement/opportunity area. 
 The chatbot in this project is created with the help of azure Bot services(QnA Maker) and website is hosted with the help of static web Apps 
-the link of the Azure static webApps : https://jolly-pond-0e2fff910.azurestaticapps.net/Home.html
+the link of the Azure static webApps : https://jolly-pond-0e2fff910.azurestaticapps.net/
